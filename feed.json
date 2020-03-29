@@ -28,14 +28,15 @@
             "url": "https://aakritymadhan.github.io/test-post.html",
             "title": "Test post",
             "summary": " This is a test",
-            "content_html": "<p><img class=\"post__image\" src=\"https://aakritymadhan.github.io/media/posts/1/IMG_20200221_122347.jpg\" alt=\"\" width=\"4608\" height=\"3456\"></p>\n<p>This is a test</p>",
+            "content_html": "<p><img class=\"post__image\" src=\"https://aakritymadhan.github.io/media/posts/1/IMG_9351.jpg\" alt=\"\" width=\"4032\" height=\"3024\"><img class=\"post__image\" src=\"https://aakritymadhan.github.io/media/posts/1/IMG_9351.HEIC\" alt=\"\"><img class=\"post__image\" src=\"https://aakritymadhan.github.io/media/posts/1/IMG_9351.HEIC\" alt=\"\"></p>\n<p>This is a test</p>",
+            "image": "https://aakritymadhan.github.io/media/posts/1/IMG_9351.jpg",
             "author": {
                 "name": "Aakrity Madhan"
             },
             "tags": [
             ],
             "date_published": "2020-03-29T13:41:03+05:30",
-            "date_modified": "2020-03-29T13:42:44+05:30"
+            "date_modified": "2020-03-29T14:07:19+05:30"
         }
     ]
 }

@@ -3,7 +3,7 @@
     <title>Aakrity&#x27;s Space</title>
     <link href="https://aakritymadhan.github.io/feed.xml" rel="self" />
     <link href="https://aakritymadhan.github.io" />
-    <updated>2020-03-29T13:57:02+05:30</updated>
+    <updated>2020-03-29T14:07:25+05:30</updated>
     <author>
         <name>Aakrity Madhan</name>
     </author>
@@ -37,15 +37,17 @@
         <link href="https://aakritymadhan.github.io/test-post.html"/>
         <id>https://aakritymadhan.github.io/test-post.html</id>
 
-        <updated>2020-03-29T13:42:44+05:30</updated>
+        <updated>2020-03-29T14:07:19+05:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://aakritymadhan.github.io/media/posts/1/IMG_9351.jpg" alt="" />
                      This is a test
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><img class="post__image" src="https://aakritymadhan.github.io/media/posts/1/IMG_20200221_122347.jpg" alt="" width="4608" height="3456"></p>
+                    <img src="https://aakritymadhan.github.io/media/posts/1/IMG_9351.jpg" alt="" />
+                <p><img class="post__image" src="https://aakritymadhan.github.io/media/posts/1/IMG_9351.jpg" alt="" width="4032" height="3024"><img class="post__image" src="https://aakritymadhan.github.io/media/posts/1/IMG_9351.HEIC" alt=""><img class="post__image" src="https://aakritymadhan.github.io/media/posts/1/IMG_9351.HEIC" alt=""></p>
 <p>This is a test</p>
             ]]>
         </content>

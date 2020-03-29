@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Aakrity&#x27;s Space",
+    "description": "",
+    "home_page_url": "https://aakritymadhan.github.io",
+    "feed_url": "https://aakritymadhan.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Aakrity Madhan"
+    },
+    "items": [
+        {
+            "id": "https://aakritymadhan.github.io/test-2.html",
+            "url": "https://aakritymadhan.github.io/test-2.html",
+            "title": "Test 2",
+            "summary": "This is a second test",
+            "content_html": "This is a second test<img class=\"post__image\" src=\"https://aakritymadhan.github.io/media/posts/2/wy0j0a5l5ov01.png\" alt=\"\" width=\"700\" height=\"750\">",
+            "author": {
+                "name": "Aakrity Madhan"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-29T13:43:40+05:30",
+            "date_modified": "2020-03-29T13:43:40+05:30"
+        },
+        {
+            "id": "https://aakritymadhan.github.io/test-post.html",
+            "url": "https://aakritymadhan.github.io/test-post.html",
+            "title": "Test post",
+            "summary": " This is a test",
+            "content_html": "<p><img class=\"post__image\" src=\"https://aakritymadhan.github.io/media/posts/1/IMG_20200221_122347.jpg\" alt=\"\" width=\"4608\" height=\"3456\"></p>\n<p>This is a test</p>",
+            "author": {
+                "name": "Aakrity Madhan"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-29T13:41:03+05:30",
+            "date_modified": "2020-03-29T13:42:44+05:30"
+        }
+    ]
+}

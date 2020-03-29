@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Aakrity&#x27;s Space",
+    "title": "ZumzinLover",
     "description": "",
     "home_page_url": "https://aakritymadhan.github.io",
     "feed_url": "https://aakritymadhan.github.io/feed.json",
@@ -10,33 +10,19 @@
     },
     "items": [
         {
-            "id": "https://aakritymadhan.github.io/test-2.html",
-            "url": "https://aakritymadhan.github.io/test-2.html",
-            "title": "Test 2",
-            "summary": "This is a second test",
-            "content_html": "This is a second test<img class=\"post__image\" src=\"https://aakritymadhan.github.io/media/posts/2/wy0j0a5l5ov01.png\" alt=\"\" width=\"700\" height=\"750\">",
+            "id": "https://aakritymadhan.github.io/first-post.html",
+            "url": "https://aakritymadhan.github.io/first-post.html",
+            "title": "FIRST POST",
+            "summary": "Shit post :)",
+            "content_html": "Shit post :)<img class=\"post__image\" src=\"https://aakritymadhan.github.io/media/posts/1/IMG_9309.JPG\" alt=\"&lt;3\" width=\"5184\" height=\"3456\">",
+            "image": "https://aakritymadhan.github.io/media/posts/1/IMG_0447.JPG",
             "author": {
                 "name": "Aakrity Madhan"
             },
             "tags": [
             ],
-            "date_published": "2020-03-29T13:43:40+05:30",
-            "date_modified": "2020-03-29T13:43:40+05:30"
-        },
-        {
-            "id": "https://aakritymadhan.github.io/test-post.html",
-            "url": "https://aakritymadhan.github.io/test-post.html",
-            "title": "Test post",
-            "summary": " This is a test",
-            "content_html": "<p><img class=\"post__image\" src=\"https://aakritymadhan.github.io/media/posts/1/IMG_9351.jpg\" alt=\"\" width=\"4032\" height=\"3024\"><img class=\"post__image\" src=\"https://aakritymadhan.github.io/media/posts/1/IMG_9351.HEIC\" alt=\"\"><img class=\"post__image\" src=\"https://aakritymadhan.github.io/media/posts/1/IMG_9351.HEIC\" alt=\"\"></p>\n<p>This is a test</p>",
-            "image": "https://aakritymadhan.github.io/media/posts/1/IMG_9351.jpg",
-            "author": {
-                "name": "Aakrity Madhan"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-03-29T13:41:03+05:30",
-            "date_modified": "2020-03-29T14:07:19+05:30"
+            "date_published": "2020-03-29T17:35:20+05:30",
+            "date_modified": "2020-03-29T17:35:20+05:30"
         }
     ]
 }

@@ -1,54 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Aakrity&#x27;s Space</title>
+    <title>ZumzinLover</title>
     <link href="https://aakritymadhan.github.io/feed.xml" rel="self" />
     <link href="https://aakritymadhan.github.io" />
-    <updated>2020-03-29T14:09:04+05:30</updated>
+    <updated>2020-03-29T17:36:55+05:30</updated>
     <author>
         <name>Aakrity Madhan</name>
     </author>
     <id>https://aakritymadhan.github.io</id>
 
     <entry>
-        <title>Test 2</title>
+        <title>FIRST POST</title>
         <author>
             <name>Aakrity Madhan</name>
         </author>
-        <link href="https://aakritymadhan.github.io/test-2.html"/>
-        <id>https://aakritymadhan.github.io/test-2.html</id>
+        <link href="https://aakritymadhan.github.io/first-post.html"/>
+        <id>https://aakritymadhan.github.io/first-post.html</id>
 
-        <updated>2020-03-29T13:43:40+05:30</updated>
+        <updated>2020-03-29T17:35:20+05:30</updated>
             <summary>
                 <![CDATA[
-                    This is a second test
+                        <img src="https://aakritymadhan.github.io/media/posts/1/IMG_0447.JPG" alt="" />
+                    Shit post :)
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                This is a second test<img class="post__image" src="https://aakritymadhan.github.io/media/posts/2/wy0j0a5l5ov01.png" alt="" width="700" height="750">
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Test post</title>
-        <author>
-            <name>Aakrity Madhan</name>
-        </author>
-        <link href="https://aakritymadhan.github.io/test-post.html"/>
-        <id>https://aakritymadhan.github.io/test-post.html</id>
-
-        <updated>2020-03-29T14:07:19+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://aakritymadhan.github.io/media/posts/1/IMG_9351.jpg" alt="" />
-                     This is a test
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://aakritymadhan.github.io/media/posts/1/IMG_9351.jpg" alt="" />
-                <p><img class="post__image" src="https://aakritymadhan.github.io/media/posts/1/IMG_9351.jpg" alt="" width="4032" height="3024"><img class="post__image" src="https://aakritymadhan.github.io/media/posts/1/IMG_9351.HEIC" alt=""><img class="post__image" src="https://aakritymadhan.github.io/media/posts/1/IMG_9351.HEIC" alt=""></p>
-<p>This is a test</p>
+                    <img src="https://aakritymadhan.github.io/media/posts/1/IMG_0447.JPG" alt="" />
+                Shit post :)<img class="post__image" src="https://aakritymadhan.github.io/media/posts/1/IMG_9309.JPG" alt="&lt;3" width="5184" height="3456">
             ]]>
         </content>
     </entry>

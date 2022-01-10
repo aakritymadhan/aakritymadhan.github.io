@@ -3,10 +3,30 @@
     <title>Aakrity&#x27;s Website</title>
     <link href="https://aakritymadhan.com/feed.xml" rel="self" />
     <link href="https://aakritymadhan.com" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2022-01-10T20:38:53+05:30</updated>
     <author>
         <name>Aakrity Madhan</name>
     </author>
     <id>https://aakritymadhan.com</id>
 
+    <entry>
+        <title>Test post</title>
+        <author>
+            <name>Aakrity Madhan</name>
+        </author>
+        <link href="https://aakritymadhan.com/test-post.html"/>
+        <id>https://aakritymadhan.com/test-post.html</id>
+
+        <updated>2022-01-10T20:38:53+05:30</updated>
+            <summary>
+                <![CDATA[
+                    This is a test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a test</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

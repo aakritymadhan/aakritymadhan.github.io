@@ -9,5 +9,19 @@
         "name": "Aakrity Madhan"
     },
     "items": [
+        {
+            "id": "https://aakritymadhan.com/test-post.html",
+            "url": "https://aakritymadhan.com/test-post.html",
+            "title": "Test post",
+            "summary": "This is a test",
+            "content_html": "<p>This is a test</p>",
+            "author": {
+                "name": "Aakrity Madhan"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-10T20:38:53+05:30",
+            "date_modified": "2022-01-10T20:38:53+05:30"
+        }
     ]
 }

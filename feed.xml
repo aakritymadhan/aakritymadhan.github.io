@@ -3,7 +3,7 @@
     <title>Aakrity&#x27;s Website</title>
     <link href="https://aakritymadhan.com/feed.xml" rel="self" />
     <link href="https://aakritymadhan.com" />
-    <updated>2022-01-10T20:45:46+05:30</updated>
+    <updated>2022-01-10T10:15:46-05:00</updated>
     <author>
         <name>Aakrity Madhan</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://aakritymadhan.com/test-post.html</id>
             <category term="best"/>
 
-        <updated>2022-01-10T20:45:46+05:30</updated>
+        <updated>2022-01-10T10:15:46-05:00</updated>
             <summary>
                 <![CDATA[
                     This is a test

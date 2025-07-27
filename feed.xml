@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <title>aakrity needs to document</title>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>aakrity&#x27;s climate thoughts</title>
     <link href="https://aakritymadhan.com/feed.xml" rel="self" />
     <link href="https://aakritymadhan.com" />
-    <updated>2022-06-11T21:18:16-04:00</updated>
+    <updated>2022-06-12T06:48:16+05:30</updated>
     <author>
         <name>Aakrity Madhan</name>
     </author>
@@ -21,7 +21,7 @@
             <category term="climatechange"/>
             <category term="changethenarrative"/>
 
-        <updated>2022-06-11T21:18:16-04:00</updated>
+        <updated>2022-06-12T06:12:32+05:30</updated>
             <summary>
                 <![CDATA[
                     Powerless! This is how I define the last three years of my life. In 2019, my then partner decided to leave after four&hellip;
@@ -34,12 +34,12 @@
 <p>Mind you, this is also the time that I got into Harvard <em>with a merit scholarship</em>, found the love of my life, and decided to build a startup with my friends. I was doing all these new things, but I was afraid of all of them. Not the good kind of afraid but the afraid that is debilitating. I was afraid to put words on paper, afraid of starting projects. It led to an incessant cycle of procrastination and associated guilt. I became afraid of myself. I didn’t know who this new person was. The cheerful, confident, and amazing me became an imposter, a fraud.</p>
 <p>Here is where I introduce you to my loveliest mostest, my best friend in this whole wide world – Abhishek. <span style="color: #236fa1;"><a href="https://abhishekchoudhary.com/" target="_blank" rel="noopener noreferrer" style="color: #236fa1;">This guy.</a></span> He saw it all – my tears, my anxiety, and my fear. One day last fall, he sat me down in our living room, a very serious expression on his face and asked me – Aakrity, are you speaking to yourself with compassion? Are you speaking to yourself like a friend?</p>
 <p>Was I? No. For three years I was beating myself up – every single day. The voice in my head was critical – when I took a break - “I wasted time”; when I was lonely – “I am needy”; when I was crying – “I am weak”; when I wasn’t feeling my 100% at work – “I am not smart”, and overall – “I am not good enough”. Sound familiar?</p>
-<figure class="post__image"><img loading="lazy"  src="https://aakritymadhan.com/media/posts/2/Slide1.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://aakritymadhan.com/media/posts/2/responsive/Slide1-xs.jpeg 300w ,https://aakritymadhan.com/media/posts/2/responsive/Slide1-sm.jpeg 480w ,https://aakritymadhan.com/media/posts/2/responsive/Slide1-md.jpeg 768w ,https://aakritymadhan.com/media/posts/2/responsive/Slide1-lg.jpeg 1024w ,https://aakritymadhan.com/media/posts/2/responsive/Slide1-xl.jpeg 1360w ,https://aakritymadhan.com/media/posts/2/responsive/Slide1-2xl.jpeg 1600w"  alt="Am I good enough?" width="720" height="405"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://aakritymadhan.com/media/posts/2/Slide1.jpeg" alt="Am I good enough?" width="720" height="405" sizes="(max-width: 48em) 100vw, 768px" srcset="https://aakritymadhan.com/media/posts/2/responsive/Slide1-xs.jpeg 300w ,https://aakritymadhan.com/media/posts/2/responsive/Slide1-sm.jpeg 480w ,https://aakritymadhan.com/media/posts/2/responsive/Slide1-md.jpeg 768w ,https://aakritymadhan.com/media/posts/2/responsive/Slide1-lg.jpeg 1024w ,https://aakritymadhan.com/media/posts/2/responsive/Slide1-xl.jpeg 1360w ,https://aakritymadhan.com/media/posts/2/responsive/Slide1-2xl.jpeg 1600w"></figure>
 <p>Being a changemaker is hard. Climate work is hard. A sustainable future seems to be slipping away like sand from our hands. 60% of young people say they feel powerless when they think about climate change. I assume that most of you who might be reading this will spend your lifetimes dedicated to this cause. That is a long time to feel powerless. That is a long time to doubt yourselves. That is a long time to not have hope.</p>
 <p>Climate work is hard. Period. It demands that we claim our power. It demands that we enjoy our work. It demands optimism and hope. And for that it is important to take care of our well-being.</p>
 <p>It’s been a year since that conversation in my living room, and having compassion for myself, speaking to myself like a friend, has built a stronger version of me. I have changed therapists, gotten medication for my depression. I gave myself flexibility and time to figure things out. Even taking a semester off. But most importantly, I learnt that I was in the wrong kind of climate work. Building simulations were not for me. Coding was not for me. Rather, I have found myself enjoying negotiating about climate, thinking about social implications of climate policies, and most of all, creating value the best way I know how.</p>
 <p>So the next time you find that inner voice speaking unkindly to you, ask yourselves – Am I speaking to myself with compassion? And then remind yourselves to flip that narrative from “I wasted time” to “I needed a break”; from “I am needy” to “I need a friend”; from “I am weak” to “My emotions are valid”; from “I am not smart” to “I can work on myself”; and most importantly from “I am not good enough” to “I am amazing and proud of myself”.</p>
-<figure class="post__image"><img loading="lazy"  src="https://aakritymadhan.com/media/posts/2/Slide2.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://aakritymadhan.com/media/posts/2/responsive/Slide2-xs.jpeg 300w ,https://aakritymadhan.com/media/posts/2/responsive/Slide2-sm.jpeg 480w ,https://aakritymadhan.com/media/posts/2/responsive/Slide2-md.jpeg 768w ,https://aakritymadhan.com/media/posts/2/responsive/Slide2-lg.jpeg 1024w ,https://aakritymadhan.com/media/posts/2/responsive/Slide2-xl.jpeg 1360w ,https://aakritymadhan.com/media/posts/2/responsive/Slide2-2xl.jpeg 1600w"  alt="I am good enough" width="720" height="405"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://aakritymadhan.com/media/posts/2/Slide2.jpeg" alt="I am good enough" width="720" height="405" sizes="(max-width: 48em) 100vw, 768px" srcset="https://aakritymadhan.com/media/posts/2/responsive/Slide2-xs.jpeg 300w ,https://aakritymadhan.com/media/posts/2/responsive/Slide2-sm.jpeg 480w ,https://aakritymadhan.com/media/posts/2/responsive/Slide2-md.jpeg 768w ,https://aakritymadhan.com/media/posts/2/responsive/Slide2-lg.jpeg 1024w ,https://aakritymadhan.com/media/posts/2/responsive/Slide2-xl.jpeg 1360w ,https://aakritymadhan.com/media/posts/2/responsive/Slide2-2xl.jpeg 1600w"></figure>
 <p>I promise you – you will find your power back!</p>
             ]]>
         </content>
